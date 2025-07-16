@@ -57,6 +57,10 @@ RCLONE_SERVE_PORT = 8080  # Port for Rclone serve (Default: 8080)
 RCLONE_SERVE_USER = ""  # Username for Rclone serve
 RCLONE_SERVE_PASS = ""  # Password for Rclone serve
 
+# Mega credentials
+MEGA_EMAIL = "duduffccuf@gmail.com"
+MEGA_PASSWORD = "hello550055@"
+
 # Sabnzbd
 USENET_SERVERS = [  # List of Usenet server configurations
     {
